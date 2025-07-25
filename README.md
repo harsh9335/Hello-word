@@ -1,2 +1,2 @@
-# Hello-word
-My first git hub project 
+# This is a simple Hello World program
+print("Hello, World!")
